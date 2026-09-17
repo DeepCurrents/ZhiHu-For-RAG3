@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / 工具缓存
+.wucai/
+.vscode/
+.idea/
+
+# 本地调试日志
+*.log
+debug-paste*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
